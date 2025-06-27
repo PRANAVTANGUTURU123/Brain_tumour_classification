@@ -1,1 +1,1 @@
-# Brain_tumour_classification
+# Advance_Brain_Tumor_Classification
